@@ -1,0 +1,7 @@
+[2024-01-09 01:29:26] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2024-01-09 01:30:05] app.INFO: Exporting mail with theme modern for language Français (French) [] []
+[2024-01-09 01:30:05] app.INFO: Core output folder: C:\wamp64\www\TestPrestashop/mails [] []
+[2024-01-09 01:30:05] app.INFO: Modules output folder: C:\wamp64\www\TestPrestashop/modules/ [] []
+[2024-01-09 01:30:26] app.INFO: Exporting mail with theme modern for language ‫العربية (Arabic) [] []
+[2024-01-09 01:30:26] app.INFO: Core output folder: C:\wamp64\www\TestPrestashop/mails [] []
+[2024-01-09 01:30:26] app.INFO: Modules output folder: C:\wamp64\www\TestPrestashop/modules/ [] []
