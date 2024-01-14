@@ -7,3 +7,7 @@
 #checkout .product-category {
     display: block;
 }
+
+.popover.sub-menu {
+    top : 71px !important;
+}
