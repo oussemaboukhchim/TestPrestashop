@@ -151,7 +151,7 @@ class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb303
 
             ";
         // line 86
-        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 86, "1058603419")->display(twig_array_merge($context, ["themeName" => $this->getAttribute(        // line 87
+        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 86, "897783048")->display(twig_array_merge($context, ["themeName" => $this->getAttribute(        // line 87
 ($context["currentlyUsedTheme"] ?? $this->getContext($context, "currentlyUsedTheme")), "name", []), "themeVersion" => $this->getAttribute(        // line 88
 ($context["currentlyUsedTheme"] ?? $this->getContext($context, "currentlyUsedTheme")), "get", [0 => "version"], "method"), "themeAuthor" => $this->getAttribute(        // line 89
 ($context["currentlyUsedTheme"] ?? $this->getContext($context, "currentlyUsedTheme")), "get", [0 => "author.name"], "method"), "isActive" => true]));
@@ -180,7 +180,7 @@ class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb303
             foreach ($context['_seq'] as $context["_key"] => $context["theme"]) {
                 // line 105
                 echo "                ";
-                $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 105, "1099244773")->display(twig_array_merge($context, ["themeName" => $this->getAttribute(                // line 106
+                $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 105, "1031884810")->display(twig_array_merge($context, ["themeName" => $this->getAttribute(                // line 106
 $context["theme"], "name", []), "themeVersion" => $this->getAttribute(                // line 107
 $context["theme"], "get", [0 => "version"], "method"), "themeAuthor" => $this->getAttribute(                // line 108
 $context["theme"], "get", [0 => "author.name"], "method"), "isActive" => false]));
@@ -213,7 +213,7 @@ $context["theme"], "get", [0 => "author.name"], "method"), "isActive" => false])
         echo "
             ";
         // line 140
-        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 140, "2040104519")->display($context);
+        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/index.html.twig", 140, "1990394201")->display($context);
         // line 156
         echo "
             ";
@@ -461,7 +461,7 @@ $context["theme"], "get", [0 => "author.name"], "method"), "isActive" => false])
 
 
 /* @PrestaShop/Admin/Improve/Design/Theme/index.html.twig */
-class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___1058603419 extends \Twig\Template
+class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___897783048 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
@@ -748,7 +748,7 @@ class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb303
 
 
 /* @PrestaShop/Admin/Improve/Design/Theme/index.html.twig */
-class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___1099244773 extends \Twig\Template
+class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___1031884810 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
@@ -1062,7 +1062,7 @@ class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb303
 
 
 /* @PrestaShop/Admin/Improve/Design/Theme/index.html.twig */
-class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___2040104519 extends \Twig\Template
+class __TwigTemplate_1d01e9e6a661392264561ddcc4ff79e49fa12eb1865fb247cea30fbb30392757___1990394201 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {

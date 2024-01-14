@@ -36,7 +36,7 @@ class __TwigTemplate_3483be001a8d2d094989732cfc5b88b1bfdcc48fffddf2b76ac2a0f8f09
         echo "
 ";
         // line 26
-        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/Blocks/delete_theme_modal.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/Blocks/delete_theme_modal.html.twig", 26, "958198076")->display(twig_array_merge($context, ["id" => "delete_theme_modal"]));
+        $this->loadTemplate("@PrestaShop/Admin/Improve/Design/Theme/Blocks/delete_theme_modal.html.twig", "@PrestaShop/Admin/Improve/Design/Theme/Blocks/delete_theme_modal.html.twig", 26, "784314499")->display(twig_array_merge($context, ["id" => "delete_theme_modal"]));
         
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e->leave($__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e_prof);
 
@@ -126,7 +126,7 @@ class __TwigTemplate_3483be001a8d2d094989732cfc5b88b1bfdcc48fffddf2b76ac2a0f8f09
 
 
 /* @PrestaShop/Admin/Improve/Design/Theme/Blocks/delete_theme_modal.html.twig */
-class __TwigTemplate_3483be001a8d2d094989732cfc5b88b1bfdcc48fffddf2b76ac2a0f8f09383d6___958198076 extends \Twig\Template
+class __TwigTemplate_3483be001a8d2d094989732cfc5b88b1bfdcc48fffddf2b76ac2a0f8f09383d6___784314499 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
