@@ -1,3 +1,4 @@
-e330ee,::1,GET,http://localhost/testprestashop/admin089b73rid/index.php/configure/advanced/performance/?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0,1705263594,,200
-89bdc4,::1,POST,http://localhost/testprestashop/admin089b73rid/index.php/common/notifications?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0&rand=1705263590522,1705263597,,200
-156c47,::1,POST,http://localhost/testprestashop/admin089b73rid/index.php/common/notifications?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0&rand=1705263596623,1705263605,,200
+4b1a9e,::1,GET,http://localhost/testprestashop/admin089b73rid/index.php/configure/advanced/performance/?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0,1705286064,,200
+67f0e5,::1,POST,http://localhost/testprestashop/admin089b73rid/index.php/common/notifications?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0&rand=1705286067455,1705286069,,200
+e06aad,::1,POST,http://localhost/testprestashop/admin089b73rid/index.php/common/notifications?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0&rand=1705286190515,1705286191,,200
+c7db98,::1,POST,http://localhost/testprestashop/admin089b73rid/index.php/common/notifications?_token=-Q1VCb6hryrpMhcxZYAZIgcz5do1jW5o4enct0EyaD0&rand=1705286312504,1705286313,,200

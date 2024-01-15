@@ -1,3 +1,6 @@
 
 /var/cache/*
+/var/cache
+/tmp
 /var/logs
+/var

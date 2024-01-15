@@ -79,7 +79,7 @@ class CategoryControllerCore extends ProductListingFrontController
      */
     public function init()
     {
-        $id_category = (int) Tools::getValue('id_category');
+            $id_category = (int) Tools::getValue('id_category');
         $this->category = new Category(
             $id_category,
             $this->context->language->id

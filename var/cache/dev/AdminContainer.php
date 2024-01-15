@@ -1706,6 +1706,7 @@ class AdminContainer extends Container
                 58 => 'blockreassurance',
                 59 => 'ps_facetedsearch',
                 60 => 'ps_mbo',
+                61 => 'subcategoryslider',
             ],
             'ps_cache_dir' => 'C:\\wamp64\\www\\TestPrestashop/var/cache/dev\\',
             'mail_themes_uri' => '/mails/themes',

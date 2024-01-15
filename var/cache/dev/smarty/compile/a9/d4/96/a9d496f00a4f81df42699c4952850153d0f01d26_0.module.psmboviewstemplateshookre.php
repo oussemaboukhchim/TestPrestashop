@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2024-01-14 21:19:46
+/* Smarty version 3.1.33, created on 2024-01-15 03:34:18
   from 'module:psmboviewstemplateshookre' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_65a441e2de0aa2_28779262',
+  'unifunc' => 'content_65a499aa1f6408_06932956',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65a441e2de0aa2_28779262 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65a499aa1f6408_06932956 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\wamp64\www\TestPrestashop/modules/ps_mbo/views/templates/hook/recommended-modules.tpl -->
 <?php echo '<script'; ?>
 >
